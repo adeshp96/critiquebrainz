@@ -3,7 +3,6 @@
 
 # TODO(roman): Create proper importing functionality and integrate it into data package.
 
-rdtg
 from __future__ import print_function
 import re
 import MySQLdb
